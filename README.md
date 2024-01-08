@@ -40,7 +40,7 @@ While this is a personal learning repository, I'm open to suggestions, feedback,
 
 ## Contact
 
-- **GitHub**: [@YourGitHubUsername](https://github.com/codecraft26)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/codecraft26/)
+- **GitHub**: [@codecraft26](https://github.com/codecraft26)
+- **LinkedIn**: [codecraft26](https://www.linkedin.com/in/codecraft26/)
 - **Email**: gaman0221@gmail.com
 
